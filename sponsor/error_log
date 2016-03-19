@@ -1,0 +1,80 @@
+[16-Feb-2016 22:13:38 America/Chicago] PHP Warning:  include(header.html): failed to open stream: No such file or directory in /home/team2/public_html/sponsor/sponsorship.php on line 28
+[16-Feb-2016 22:13:38 America/Chicago] PHP Warning:  include(header.html): failed to open stream: No such file or directory in /home/team2/public_html/sponsor/sponsorship.php on line 28
+[16-Feb-2016 22:13:38 America/Chicago] PHP Warning:  include(): Failed opening 'header.html' for inclusion (include_path='.:/opt/php54/lib/php') in /home/team2/public_html/sponsor/sponsorship.php on line 28
+[16-Feb-2016 22:13:38 America/Chicago] PHP Warning:  include(menu.html): failed to open stream: No such file or directory in /home/team2/public_html/sponsor/sponsorship.php on line 35
+[16-Feb-2016 22:13:38 America/Chicago] PHP Warning:  include(menu.html): failed to open stream: No such file or directory in /home/team2/public_html/sponsor/sponsorship.php on line 35
+[16-Feb-2016 22:13:38 America/Chicago] PHP Warning:  include(): Failed opening 'menu.html' for inclusion (include_path='.:/opt/php54/lib/php') in /home/team2/public_html/sponsor/sponsorship.php on line 35
+[16-Feb-2016 22:13:38 America/Chicago] PHP Warning:  include(footer.html): failed to open stream: No such file or directory in /home/team2/public_html/sponsor/sponsorship.php on line 167
+[16-Feb-2016 22:13:38 America/Chicago] PHP Warning:  include(footer.html): failed to open stream: No such file or directory in /home/team2/public_html/sponsor/sponsorship.php on line 167
+[16-Feb-2016 22:13:38 America/Chicago] PHP Warning:  include(): Failed opening 'footer.html' for inclusion (include_path='.:/opt/php54/lib/php') in /home/team2/public_html/sponsor/sponsorship.php on line 167
+[16-Feb-2016 22:15:12 America/Chicago] PHP Warning:  include(../../header.html): failed to open stream: No such file or directory in /home/team2/public_html/sponsor/sponsorship.php on line 28
+[16-Feb-2016 22:15:12 America/Chicago] PHP Warning:  include(../../header.html): failed to open stream: No such file or directory in /home/team2/public_html/sponsor/sponsorship.php on line 28
+[16-Feb-2016 22:15:12 America/Chicago] PHP Warning:  include(): Failed opening '../../header.html' for inclusion (include_path='.:/opt/php54/lib/php') in /home/team2/public_html/sponsor/sponsorship.php on line 28
+[16-Feb-2016 22:15:12 America/Chicago] PHP Warning:  include(menu.html): failed to open stream: No such file or directory in /home/team2/public_html/sponsor/sponsorship.php on line 35
+[16-Feb-2016 22:15:12 America/Chicago] PHP Warning:  include(menu.html): failed to open stream: No such file or directory in /home/team2/public_html/sponsor/sponsorship.php on line 35
+[16-Feb-2016 22:15:12 America/Chicago] PHP Warning:  include(): Failed opening 'menu.html' for inclusion (include_path='.:/opt/php54/lib/php') in /home/team2/public_html/sponsor/sponsorship.php on line 35
+[16-Feb-2016 22:15:12 America/Chicago] PHP Warning:  include(footer.html): failed to open stream: No such file or directory in /home/team2/public_html/sponsor/sponsorship.php on line 167
+[16-Feb-2016 22:15:12 America/Chicago] PHP Warning:  include(footer.html): failed to open stream: No such file or directory in /home/team2/public_html/sponsor/sponsorship.php on line 167
+[16-Feb-2016 22:15:12 America/Chicago] PHP Warning:  include(): Failed opening 'footer.html' for inclusion (include_path='.:/opt/php54/lib/php') in /home/team2/public_html/sponsor/sponsorship.php on line 167
+[16-Feb-2016 22:15:20 America/Chicago] PHP Warning:  include(/../../header.html): failed to open stream: No such file or directory in /home/team2/public_html/sponsor/sponsorship.php on line 28
+[16-Feb-2016 22:15:20 America/Chicago] PHP Warning:  include(): Failed opening '/../../header.html' for inclusion (include_path='.:/opt/php54/lib/php') in /home/team2/public_html/sponsor/sponsorship.php on line 28
+[16-Feb-2016 22:15:20 America/Chicago] PHP Warning:  include(menu.html): failed to open stream: No such file or directory in /home/team2/public_html/sponsor/sponsorship.php on line 35
+[16-Feb-2016 22:15:20 America/Chicago] PHP Warning:  include(menu.html): failed to open stream: No such file or directory in /home/team2/public_html/sponsor/sponsorship.php on line 35
+[16-Feb-2016 22:15:20 America/Chicago] PHP Warning:  include(): Failed opening 'menu.html' for inclusion (include_path='.:/opt/php54/lib/php') in /home/team2/public_html/sponsor/sponsorship.php on line 35
+[16-Feb-2016 22:15:20 America/Chicago] PHP Warning:  include(footer.html): failed to open stream: No such file or directory in /home/team2/public_html/sponsor/sponsorship.php on line 167
+[16-Feb-2016 22:15:20 America/Chicago] PHP Warning:  include(footer.html): failed to open stream: No such file or directory in /home/team2/public_html/sponsor/sponsorship.php on line 167
+[16-Feb-2016 22:15:20 America/Chicago] PHP Warning:  include(): Failed opening 'footer.html' for inclusion (include_path='.:/opt/php54/lib/php') in /home/team2/public_html/sponsor/sponsorship.php on line 167
+[16-Feb-2016 22:40:21 America/Chicago] PHP Warning:  include(): Filename cannot be empty in /home/team2/public_html/sponsor/sponsorship.php on line 28
+[16-Feb-2016 22:40:21 America/Chicago] PHP Warning:  include(): Failed opening '' for inclusion (include_path='.:/opt/php54/lib/php') in /home/team2/public_html/sponsor/sponsorship.php on line 28
+[16-Feb-2016 22:40:21 America/Chicago] PHP Warning:  include(menu.html): failed to open stream: No such file or directory in /home/team2/public_html/sponsor/sponsorship.php on line 35
+[16-Feb-2016 22:40:21 America/Chicago] PHP Warning:  include(menu.html): failed to open stream: No such file or directory in /home/team2/public_html/sponsor/sponsorship.php on line 35
+[16-Feb-2016 22:40:21 America/Chicago] PHP Warning:  include(): Failed opening 'menu.html' for inclusion (include_path='.:/opt/php54/lib/php') in /home/team2/public_html/sponsor/sponsorship.php on line 35
+[16-Feb-2016 22:40:21 America/Chicago] PHP Warning:  include(footer.html): failed to open stream: No such file or directory in /home/team2/public_html/sponsor/sponsorship.php on line 165
+[16-Feb-2016 22:40:21 America/Chicago] PHP Warning:  include(footer.html): failed to open stream: No such file or directory in /home/team2/public_html/sponsor/sponsorship.php on line 165
+[16-Feb-2016 22:40:21 America/Chicago] PHP Warning:  include(): Failed opening 'footer.html' for inclusion (include_path='.:/opt/php54/lib/php') in /home/team2/public_html/sponsor/sponsorship.php on line 165
+[16-Feb-2016 22:51:55 America/Chicago] PHP Warning:  include(../headers.html): failed to open stream: No such file or directory in /home/team2/public_html/sponsor/sponsorship.php on line 28
+[16-Feb-2016 22:51:55 America/Chicago] PHP Warning:  include(../headers.html): failed to open stream: No such file or directory in /home/team2/public_html/sponsor/sponsorship.php on line 28
+[16-Feb-2016 22:51:55 America/Chicago] PHP Warning:  include(): Failed opening '../headers.html' for inclusion (include_path='.:/opt/php54/lib/php') in /home/team2/public_html/sponsor/sponsorship.php on line 28
+[16-Feb-2016 22:51:55 America/Chicago] PHP Warning:  include(menu.html): failed to open stream: No such file or directory in /home/team2/public_html/sponsor/sponsorship.php on line 35
+[16-Feb-2016 22:51:55 America/Chicago] PHP Warning:  include(menu.html): failed to open stream: No such file or directory in /home/team2/public_html/sponsor/sponsorship.php on line 35
+[16-Feb-2016 22:51:55 America/Chicago] PHP Warning:  include(): Failed opening 'menu.html' for inclusion (include_path='.:/opt/php54/lib/php') in /home/team2/public_html/sponsor/sponsorship.php on line 35
+[16-Feb-2016 22:51:55 America/Chicago] PHP Warning:  include(footer.html): failed to open stream: No such file or directory in /home/team2/public_html/sponsor/sponsorship.php on line 165
+[16-Feb-2016 22:51:55 America/Chicago] PHP Warning:  include(footer.html): failed to open stream: No such file or directory in /home/team2/public_html/sponsor/sponsorship.php on line 165
+[16-Feb-2016 22:51:55 America/Chicago] PHP Warning:  include(): Failed opening 'footer.html' for inclusion (include_path='.:/opt/php54/lib/php') in /home/team2/public_html/sponsor/sponsorship.php on line 165
+[16-Feb-2016 22:51:57 America/Chicago] PHP Warning:  include(../headers.html): failed to open stream: No such file or directory in /home/team2/public_html/sponsor/sponsorship.php on line 28
+[16-Feb-2016 22:51:57 America/Chicago] PHP Warning:  include(../headers.html): failed to open stream: No such file or directory in /home/team2/public_html/sponsor/sponsorship.php on line 28
+[16-Feb-2016 22:51:57 America/Chicago] PHP Warning:  include(): Failed opening '../headers.html' for inclusion (include_path='.:/opt/php54/lib/php') in /home/team2/public_html/sponsor/sponsorship.php on line 28
+[16-Feb-2016 22:51:57 America/Chicago] PHP Warning:  include(menu.html): failed to open stream: No such file or directory in /home/team2/public_html/sponsor/sponsorship.php on line 35
+[16-Feb-2016 22:51:57 America/Chicago] PHP Warning:  include(menu.html): failed to open stream: No such file or directory in /home/team2/public_html/sponsor/sponsorship.php on line 35
+[16-Feb-2016 22:51:57 America/Chicago] PHP Warning:  include(): Failed opening 'menu.html' for inclusion (include_path='.:/opt/php54/lib/php') in /home/team2/public_html/sponsor/sponsorship.php on line 35
+[16-Feb-2016 22:51:57 America/Chicago] PHP Warning:  include(footer.html): failed to open stream: No such file or directory in /home/team2/public_html/sponsor/sponsorship.php on line 165
+[16-Feb-2016 22:51:57 America/Chicago] PHP Warning:  include(footer.html): failed to open stream: No such file or directory in /home/team2/public_html/sponsor/sponsorship.php on line 165
+[16-Feb-2016 22:51:57 America/Chicago] PHP Warning:  include(): Failed opening 'footer.html' for inclusion (include_path='.:/opt/php54/lib/php') in /home/team2/public_html/sponsor/sponsorship.php on line 165
+[16-Feb-2016 22:52:13 America/Chicago] PHP Warning:  include(/../headers.html): failed to open stream: No such file or directory in /home/team2/public_html/sponsor/sponsorship.php on line 28
+[16-Feb-2016 22:52:13 America/Chicago] PHP Warning:  include(): Failed opening '/../headers.html' for inclusion (include_path='.:/opt/php54/lib/php') in /home/team2/public_html/sponsor/sponsorship.php on line 28
+[16-Feb-2016 22:52:13 America/Chicago] PHP Warning:  include(menu.html): failed to open stream: No such file or directory in /home/team2/public_html/sponsor/sponsorship.php on line 35
+[16-Feb-2016 22:52:13 America/Chicago] PHP Warning:  include(menu.html): failed to open stream: No such file or directory in /home/team2/public_html/sponsor/sponsorship.php on line 35
+[16-Feb-2016 22:52:13 America/Chicago] PHP Warning:  include(): Failed opening 'menu.html' for inclusion (include_path='.:/opt/php54/lib/php') in /home/team2/public_html/sponsor/sponsorship.php on line 35
+[16-Feb-2016 22:52:13 America/Chicago] PHP Warning:  include(footer.html): failed to open stream: No such file or directory in /home/team2/public_html/sponsor/sponsorship.php on line 165
+[16-Feb-2016 22:52:13 America/Chicago] PHP Warning:  include(footer.html): failed to open stream: No such file or directory in /home/team2/public_html/sponsor/sponsorship.php on line 165
+[16-Feb-2016 22:52:13 America/Chicago] PHP Warning:  include(): Failed opening 'footer.html' for inclusion (include_path='.:/opt/php54/lib/php') in /home/team2/public_html/sponsor/sponsorship.php on line 165
+[16-Feb-2016 22:52:57 America/Chicago] PHP Warning:  include(/../it305/headers.html): failed to open stream: No such file or directory in /home/team2/public_html/sponsor/sponsorship.php on line 28
+[16-Feb-2016 22:52:57 America/Chicago] PHP Warning:  include(): Failed opening '/../it305/headers.html' for inclusion (include_path='.:/opt/php54/lib/php') in /home/team2/public_html/sponsor/sponsorship.php on line 28
+[16-Feb-2016 22:52:57 America/Chicago] PHP Warning:  include(menu.html): failed to open stream: No such file or directory in /home/team2/public_html/sponsor/sponsorship.php on line 35
+[16-Feb-2016 22:52:57 America/Chicago] PHP Warning:  include(menu.html): failed to open stream: No such file or directory in /home/team2/public_html/sponsor/sponsorship.php on line 35
+[16-Feb-2016 22:52:57 America/Chicago] PHP Warning:  include(): Failed opening 'menu.html' for inclusion (include_path='.:/opt/php54/lib/php') in /home/team2/public_html/sponsor/sponsorship.php on line 35
+[16-Feb-2016 22:52:57 America/Chicago] PHP Warning:  include(footer.html): failed to open stream: No such file or directory in /home/team2/public_html/sponsor/sponsorship.php on line 165
+[16-Feb-2016 22:52:57 America/Chicago] PHP Warning:  include(footer.html): failed to open stream: No such file or directory in /home/team2/public_html/sponsor/sponsorship.php on line 165
+[16-Feb-2016 22:52:57 America/Chicago] PHP Warning:  include(): Failed opening 'footer.html' for inclusion (include_path='.:/opt/php54/lib/php') in /home/team2/public_html/sponsor/sponsorship.php on line 165
+[16-Feb-2016 22:56:57 America/Chicago] PHP Warning:  include(menu.html): failed to open stream: No such file or directory in /home/team2/public_html/sponsor/sponsorship.php on line 35
+[16-Feb-2016 22:56:57 America/Chicago] PHP Warning:  include(menu.html): failed to open stream: No such file or directory in /home/team2/public_html/sponsor/sponsorship.php on line 35
+[16-Feb-2016 22:56:57 America/Chicago] PHP Warning:  include(): Failed opening 'menu.html' for inclusion (include_path='.:/opt/php54/lib/php') in /home/team2/public_html/sponsor/sponsorship.php on line 35
+[16-Feb-2016 22:56:57 America/Chicago] PHP Warning:  include(footer.html): failed to open stream: No such file or directory in /home/team2/public_html/sponsor/sponsorship.php on line 165
+[16-Feb-2016 22:56:57 America/Chicago] PHP Warning:  include(footer.html): failed to open stream: No such file or directory in /home/team2/public_html/sponsor/sponsorship.php on line 165
+[16-Feb-2016 22:56:57 America/Chicago] PHP Warning:  include(): Failed opening 'footer.html' for inclusion (include_path='.:/opt/php54/lib/php') in /home/team2/public_html/sponsor/sponsorship.php on line 165
+[16-Feb-2016 22:57:16 America/Chicago] PHP Warning:  include(footer.html): failed to open stream: No such file or directory in /home/team2/public_html/sponsor/sponsorship.php on line 165
+[16-Feb-2016 22:57:16 America/Chicago] PHP Warning:  include(footer.html): failed to open stream: No such file or directory in /home/team2/public_html/sponsor/sponsorship.php on line 165
+[16-Feb-2016 22:57:16 America/Chicago] PHP Warning:  include(): Failed opening 'footer.html' for inclusion (include_path='.:/opt/php54/lib/php') in /home/team2/public_html/sponsor/sponsorship.php on line 165
+[16-Feb-2016 23:35:53 America/Chicago] PHP Warning:  include(footer.html): failed to open stream: No such file or directory in /home/team2/public_html/sponsor/sponsorship.php on line 165
+[16-Feb-2016 23:35:54 America/Chicago] PHP Warning:  include(footer.html): failed to open stream: No such file or directory in /home/team2/public_html/sponsor/sponsorship.php on line 165
+[16-Feb-2016 23:35:54 America/Chicago] PHP Warning:  include(): Failed opening 'footer.html' for inclusion (include_path='.:/opt/php54/lib/php') in /home/team2/public_html/sponsor/sponsorship.php on line 165
